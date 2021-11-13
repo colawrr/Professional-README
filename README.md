@@ -1,4 +1,4 @@
-# Professional README generator
+# Professional README Generator
   ## Licensing:
   [![license](https://img.shields.io/badge/license-none-blue)](https://shields.io)
   ## Table of Contents 
@@ -9,11 +9,11 @@
   - [Testing](#testing)
   - [Additional Info](#additional-info)
   ## Description:
-  Professional README generator using Node.js through the command line
+  Using the command line to generate a README file based off the input the user provides.
   ## Installation:
-  Download it through github
+  Download it from github
   ## Usage:
-  Fill out the required prompts and the README will be generated for you.
+  Give the command node index.js and then fill out the prompts accordingly.
   ## License:
   none
   ## Contribution:
@@ -21,6 +21,6 @@
   ## Testing:
   N/A
   ## Additional Info:
-  - Github: [colawrr](https://github.com/colawrr)
+  - Github: [Colawrr](https://github.com/Colawrr)
   - Email: Connor.lawrence96@gmail.com 
-  - Video: ()
+  - Video: [Click Here] (https://user-images.githubusercontent.com/89156347/141661259-faba50a9-09ed-48a3-acff-01263b739952.mp4)
