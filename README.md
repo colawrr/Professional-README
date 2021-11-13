@@ -23,4 +23,4 @@
   ## Additional Info:
   - Github: [Colawrr](https://github.com/Colawrr)
   - Email: Connor.lawrence96@gmail.com 
-  - Video: [Click Here] (https://user-images.githubusercontent.com/89156347/141661259-faba50a9-09ed-48a3-acff-01263b739952.mp4)
+  - Video: https://user-images.githubusercontent.com/89156347/141661259-faba50a9-09ed-48a3-acff-01263b739952.mp4
