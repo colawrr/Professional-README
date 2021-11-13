@@ -25,7 +25,7 @@ function generateMarkdown(data) {
   ## Additional Info:
   - Github: [${data.github}](https://github.com/${data.github})
   - Email: ${data.email} 
-  - Video: ()`;
+  - Video: [Click Here](Professional-README/video/module 9 screencast.mp4)`;
 }
 
 module.exports = generateMarkdown;
